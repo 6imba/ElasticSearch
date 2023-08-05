@@ -1,0 +1,29 @@
+elastic search
+
+kibana
+access log, error log, 
+
+micre service --> logger --> log --> logger.error,logger.process,logger.audit --> logger.label --. parameter, metadata
+@monotype-logger
+
+elastic ma kasari data rakhxam
+request get,post,patch,
+through rest api, its own language:eql
+
+
+Elastic NV is an American-Dutch company that was founded in 2012 in Amsterdam, the Netherlands, and was previously known as Elasticsearch. It is a search company that builds self-managed and software as a service offerings for search, logging, security, observability, and analytics use cases.
+
+use case of elastic: log, 
+
+mtf: primary sources of data
+
+elastice is not db but data sources
+
+elastic is a indexer, used for indexing like in book
+
+load balancer
+
+search efficiency
+solar vs elastic
+
+
